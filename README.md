@@ -4,4 +4,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://joaopimenta.github.io/exercicios/ex010/index.html">Executar o Exercício 010</a>
+<a href="https://joaopimenta.github.io/desafios/d012/index.html">Desafio 12 Mini-Projeto do curso</a>
